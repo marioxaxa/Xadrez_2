@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 
 # Xadrez 2
-### Um classico que marcou a historia com uma cara nova. ]
+### Um classico que marcou a historia com uma cara nova.
 
 Topicos
 =================
@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/marioxaxa">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66087369?s=400&u=b9875ee10baaa1ccb6ad6c9d5140fde9b35131c6&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Mário Xaxá</b></sub></a> <a href="https://github.com/marioxaxa" title="MárioXaxá">🚀</a>
+ <sub><b>Mário Xaxá</b></sub></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marioxaxa/)](https://www.linkedin.com/in/marioxaxa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MárioXaxá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marioxaxa/)](https://www.linkedin.com/in/marioxaxa/) 
 [![Gmail Badge](https://img.shields.io/badge/-marioxaxa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioxaxa0@gmail.com)](mailto:marioxaxa0@gmail.com)
