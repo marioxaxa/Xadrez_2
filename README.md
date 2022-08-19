@@ -70,3 +70,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-marioxaxa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioxaxa0@gmail.com)](mailto:marioxaxa0@gmail.com)
 
 # Arthur Gonçalves da Silva
+Contribuição para o curso Git
