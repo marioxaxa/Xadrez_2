@@ -1,18 +1,18 @@
 ![Banner](./assets/banner.png)
 
 # Xadrez 2
+
 ### Um classico que marcou a historia com uma cara nova.
 
-Topicos
-=================
+# Topicos
 
-   * [Sobre](#Sobre)
-   * [Instalação](#instalacao)
-   * [Como jogar](#como-jogar)
-   * [Peças](#peças)
-        * [Pegasus](#pegasus)
-        * [Monge](#monge)
-        * [Edificio](#edificio)
+- [Sobre](#Sobre)
+- [Instalação](#instalacao)
+- [Como jogar](#como-jogar)
+- [Peças](#peças)
+  - [Pegasus](#pegasus)
+  - [Monge](#monge)
+  - [Edificio](#edificio)
 
 #### Xadrez 2 ainda está em desenvolvimento...
 
@@ -25,7 +25,6 @@ Topicos
 - [ ] Edificio
 - [x] Primeira Dama
 - [ ] Escoteiro
-
 
 ### Pré-requisitos
 
@@ -59,6 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ReactSpring](https://react-spring.dev)
 
 ### Autor
+
 ---
 
 <a href="https://github.com/marioxaxa">
@@ -66,5 +66,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
  <sub><b>Mário Xaxá</b></sub></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MárioXaxá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marioxaxa/)](https://www.linkedin.com/in/marioxaxa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MárioXaxá-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marioxaxa/)](https://www.linkedin.com/in/marioxaxa/)
 [![Gmail Badge](https://img.shields.io/badge/-marioxaxa0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioxaxa0@gmail.com)](mailto:marioxaxa0@gmail.com)
+
+# Arthur Gonçalves da Silva
+Contribuição para o curso Git
